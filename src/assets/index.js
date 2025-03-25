@@ -30,6 +30,10 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import screnEC from "./screnEC.png";
+import screeninteria from "./screeninteria.png";
+import screenHrms from "./screenHrms.png";
+import screenMobility from "./screenMobility.png";
+import adarsh from "./adarsh.png";
 export {
   logo,
   backend,
@@ -60,4 +64,8 @@ export {
   jobit,
   tripguide,
   screnEC,
+  screeninteria,
+  screenHrms,
+  screenMobility,
+  adarsh,
 };
